@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 76633989,
+      "firstName": "Elizabeth",
+      "lastName": "Wyman",
+      "email": "Pearl22@hotmail.com"
+    },
+    {
+      "id": 53507537,
+      "firstName": "Ansley",
+      "lastName": "Hermann",
+      "email": "Giovanni.Donnelly@yahoo.com"
+    },
+    {
+      "id": 90809684,
+      "firstName": "Nona",
+      "lastName": "Kovacek",
+      "email": "Trinity.Wunsch@hotmail.com"
+    },
+    {
+      "id": 6725208,
+      "firstName": "Rosie",
+      "lastName": "Rohan",
+      "email": "Marcos85@gmail.com"
+    },
+    {
+      "id": 29277189,
+      "firstName": "Raphaelle",
+      "lastName": "Runolfsdottir",
+      "email": "Francesca.Bogisich@yahoo.com"
+    }
+  ]
+}
